@@ -144,9 +144,14 @@
     border-radius: 12px;
     text-align: center;
     text-transform: uppercase;
+    width: 150px;
 
     &:hover {
       background-color: $color-orange-light;
+    }
+
+    @media (min-width: 768px) {
+      width: 175px;
     }
   }
 
