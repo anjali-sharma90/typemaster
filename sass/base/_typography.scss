@@ -1,0 +1,214 @@
+// .h1 {
+//   font-size: 38px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.53px;
+//   line-height: 44px;
+
+//   @media (min-width: 768px) {
+//     font-size: 56px;
+//     font-weight: 400;
+//     font-family: "Epilogue", sans-serif;
+//     letter-spacing: -0.78px;
+//     line-height: 64px;
+//     paragraph-spacing: 1px;
+//   }
+
+//   @media (min-width: 1440px) {
+//     font-size: 72px;
+//     font-weight: bold;
+//     font-family: "Epilogue", sans-serif;
+//     letter-spacing: -1px;
+//     line-height: 78px;
+//     paragraph-spacing: 1px;
+//   }
+//   &-bold {
+//     font-weight: bold;
+//   }
+// }
+
+// .h2 {
+//   font-size: 32px;
+//   font-weight: bold;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.44px;
+//   line-height: 1px;
+
+//   // @media (min-width: 1440px) {
+//   //   font-size: 56px;
+//   //   font-weight: bold;
+//   //   font-family: "League Spartan", sans-serif;
+//   //   letter-spacing: -2px;
+//   //   line-height: 48px;
+//   // }
+// }
+
+.btn-text {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Barlow", sans-serif;
+  letter-spacing: 0px;
+  line-height: 26px;
+}
+
+.box2 {
+  &__h1 {
+    font-size: 48px;
+    font-weight: 800;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 0px;
+    line-height: 48px;
+  }
+
+  &__p {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 0px;
+    line-height: 26px;
+  }
+}
+
+.typemaster__mechnical {
+  &-h2 {
+    font-size: 32px;
+    font-weight: 800;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 0px;
+    line-height: 36px;
+  }
+
+  &-p {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 0px;
+    line-height: 26px;
+  }
+}
+
+.typemaster__specification {
+  &-h3 {
+    font-size: 24px;
+    font-weight: 800;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 0px;
+    line-height: 28px;
+  }
+
+  &-p {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 0px;
+    line-height: 26px;
+
+    &-bold {
+      font-weight: bold;
+    }
+  }
+}
+
+// .btn-text2 {
+//   font-size: 18px;
+//   font-weight: bold;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.18px;
+//   line-height: 32px;
+// }
+
+// .text1 {
+//   font-size: 16px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.09px;
+//   line-height: 28px;
+// }
+
+// .text2 {
+//   font-size: 48px;
+//   font-weight: bold;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: 0;
+//   line-height: 56px;
+//   paragraph-spacing: 1px;
+// }
+
+// .text3 {
+//   font-size: 16px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: 2.5px;
+//   line-height: 26px;
+//   paragraph-spacing: 1px;
+// }
+
+// .description__h1 {
+//   font-size: 40px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.42px;
+//   line-height: 48px;
+//   paragraph-spacing: 1px;
+
+//   @media (min-width: 1440px) {
+//     font-size: 48px;
+//     font-weight: bold;
+//     font-family: "Epilogue", sans-serif;
+//     letter-spacing: -0.5px;
+//     line-height: 56px;
+//     paragraph-spacing: 1px;
+//   }
+
+//   &-bold {
+//     font-weight: bolder;
+//   }
+// }
+
+// .description__p {
+//   font-size: 18px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.09px;
+//   line-height: 32px;
+//   paragraph-spacing: 1px;
+//   text-align: center;
+
+//   @media (min-width: 1440px) {
+//     font-size: 20px;
+//     font-weight: 400;
+//     font-family: "Epilogue", sans-serif;
+//     letter-spacing: 0.1px;
+//     line-height: 35px;
+//     paragraph-spacing: 1px;
+//   }
+// }
+
+// .text4 {
+//   font-size: 18px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.09px;
+//   line-height: 32px;
+//   paragraph-spacing: 1px;
+//   text-align: center;
+// }
+
+// .text5 {
+//   font-size: 18px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: -0.09px;
+//   line-height: 32px;
+//   paragraph-spacing: 1px;
+//   text-align: center;
+// }
+
+// .text6 {
+//   font-size: 15px;
+//   font-weight: 400;
+//   font-family: "Epilogue", sans-serif;
+//   letter-spacing: 0.08px;
+//   line-height: 32px;
+//   paragraph-spacing: 1px;
+// }
